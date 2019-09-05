@@ -40,10 +40,6 @@ Feel free to reuse them and suggest improvements! (Please check the [CC License]
 
 
 
-## [Lecture 7: Functions](https://docs.google.com/presentation/d/1JZQ39gSu5yBa9sRxY5qG51NP5IiCuiwTZKEYTWS1TLI/edit?usp=sharing)
-
-
-
 ## Lectures 8-9: Contest and Contest Upsolve
 
 Lectures 8 and 9 didn't have slides, lecture 8 was a contest between the students and it consisted of the following problems:
